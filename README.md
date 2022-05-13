@@ -12,7 +12,7 @@
 
 # Opis budowy układu
 
-Multimetr Metex M-3860D wyposażony został w interface szeregowy RS232 pracujący w standardzie baudrate 1200-7-2.Niestety do podłączenia konieczny jest kabel szeregowy zakończony specjalnym , bardzo nie standardowym konektorem, który nie jest dostępny na rynku. Na szczęście stworzenie własnego zamiennika nie stanowi wielkiego wyzwania. ![IMG_2042](https://user-images.githubusercontent.com/17962241/168260033-3eba8f12-91ee-40e9-adc7-9c5a3384f749.JPG)
+Multimetr Metex M-3860D wyposażony został w interface szeregowy RS232 pracujący w standardzie baudrate 1200-7-2.Niestety do podłączenia konieczny jest kabel szeregowy zakończony specjalnym , bardzo niestandardowym konektorem, który nie jest dostępny na rynku. Na szczęście stworzenie własnego zamiennika nie stanowi wielkiego wyzwania. ![IMG_2042](https://user-images.githubusercontent.com/17962241/168260033-3eba8f12-91ee-40e9-adc7-9c5a3384f749.JPG)
 
 Połączenie pomiędzy multimetrem Metex a ESP32 zrealizowane zostało za pomocą konwertera USB-RS232 UART
 
@@ -32,4 +32,5 @@ Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D oraz pinout kone
 * [pomiar rezystancji     ](https://youtu.be/uiNAxEi9wzU)
 * [komunikat powitalny     ](https://youtu.be/Lm9R9BroX0s)
 
-
+# Podsumowanie
+  Projekt powyższego układu działa nadzwyczaj stabilnie. Odczyt głosowy pozwala osobie słabowidzącej korzystać w pełni z multimetru, którego wyświetlacz zwykle nie jest zbyt kontrastowy co uniemożliwia jego wygodny udczyt. Odczyt odbywa się automatycznie co kilka sekund. Dostępna jest możliwość regulacji głośności niestety tylko z poziomu kodu. 
