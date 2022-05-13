@@ -28,7 +28,7 @@ Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D oraz pinout kone
 
 # Efekt działania układu można zobaczyć poniżej:
 
-https://youtu.be/nhY50dIIWes
+(https://youtu.be/nhY50dIIWes)
 
 https://youtu.be/sveKjSaQzWs
 
