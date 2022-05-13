@@ -36,4 +36,4 @@ https://youtu.be/uiNAxEi9wzU
 
 https://youtu.be/Lm9R9BroX0s
 
-
+(1947) Metex Speaker komunikat początkowy - YouTube
