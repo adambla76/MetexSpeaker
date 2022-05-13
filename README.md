@@ -10,4 +10,4 @@
 
 ![IMG_2033](https://user-images.githubusercontent.com/17962241/168257628-a994a2a2-ac3a-4992-8603-c5b0205f6a21.JPG)
 
-<b>Schemat układu</b>
+# Schemat układu
