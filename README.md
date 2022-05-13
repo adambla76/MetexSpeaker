@@ -27,9 +27,9 @@ Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D oraz pinout kone
 ![I2S-ESP32-Play-from-Memory_Steckplatine](https://user-images.githubusercontent.com/17962241/168258586-f9c6710a-1b62-4a56-9ea9-05c532f4cdcd.png)
 
 # Efekt działania układu można zobaczyć poniżej:
-[pomiar prądu DC](https://youtu.be/sveKjSaQzWs)
-[pomiar napięcia DC](https://youtu.be/nhY50dIIWes)
-[pomiar rezystancji](https://youtu.be/uiNAxEi9wzU)
-[komunikat powitalny](https://youtu.be/Lm9R9BroX0s)
+[pomiar prądu DC     ](https://youtu.be/sveKjSaQzWs)
+[pomiar napięcia DC     ](https://youtu.be/nhY50dIIWes)
+[pomiar rezystancji     ](https://youtu.be/uiNAxEi9wzU)
+[komunikat powitalny     ](https://youtu.be/Lm9R9BroX0s)
 
 
