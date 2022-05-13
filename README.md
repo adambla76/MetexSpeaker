@@ -20,9 +20,20 @@ Połączenie pomiędzy multimetrem Metex a ESP32 zrealizowane zostało za pomoc�
   
 Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D oraz pinout konektora znaleźć można -> https://www.sbprojects.net/projects/m3850/index.php
 
-  Odebrana z miernika ramka pomiarowa zostaje odpowiednio przetworzona poprzez kontroler ESP32 i wysłania  poprzez Wifi do serwisu Google Translate Text-to-Speech, który przetwarza tekst na plik audio clip MP3 wg zadanych parametrów tj. lektor, język, prędkość wymowy, itd. Odebrany plik MP3 zostaje następnie pobrany do ESP , zdekodowany i wysłany interfacem I2S do dekodera audio MAX98357A. Do wyjścia dekodera audio został podłączony głośnik 3W 4ohm. 
+  Odebrana z miernika ramka pomiarowa zostaje odpowiednio przetworzona poprzez kontroler ESP32 i wysłania  poprzez Wifi do serwisu Google Translate Text-to-Speech, który przetwarza tekst na plik audio clip MP3 wg zadanych parametrów tj. lektor, język, prędkość wymowy, itd. Odebrany plik MP3 zostaje następnie pobrany do ESP , zdekodowany i wysłany interfacem I2S do dekodera audio MAX98357A. Do wyjścia dekodera został podłączony mały głośnik 3W 4ohm. 
   
   Schemat podłączenia ESP32 z dekoderem widoczny jest poniżej:
 
 ![I2S-ESP32-Play-from-Memory_Steckplatine](https://user-images.githubusercontent.com/17962241/168258586-f9c6710a-1b62-4a56-9ea9-05c532f4cdcd.png)
+
+# Efekt działania układu można zobaczyć poniżej:
+
+https://youtu.be/nhY50dIIWes
+
+https://youtu.be/sveKjSaQzWs
+
+https://youtu.be/uiNAxEi9wzU
+
+https://youtu.be/Lm9R9BroX0s
+
 
