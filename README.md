@@ -28,5 +28,8 @@ Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D oraz pinout kone
 
 # Efekt działania układu można zobaczyć poniżej:
 [pomiar prądu DC](https://youtu.be/sveKjSaQzWs)
+[pomiar napięcia DC](https://youtu.be/nhY50dIIWes)
+[pomiar rezystancji](https://youtu.be/uiNAxEi9wzU)
+[komunikat powitalny](https://youtu.be/Lm9R9BroX0s)
 
 
