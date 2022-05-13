@@ -28,14 +28,11 @@ Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D oraz pinout kone
 
 # Efekt działania układu można zobaczyć poniżej:
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/nhY50dIIWes" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhY50dIIWes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://youtu.be/sveKjSaQzWs
-
-https://youtu.be/uiNAxEi9wzU
-
-https://youtu.be/Lm9R9BroX0s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiNAxEi9wzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lm9R9BroX0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![](/video-iframe/vid_placeholder_1.png)](https://youtu.be/291ET6Py6H8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sveKjSaQzWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
