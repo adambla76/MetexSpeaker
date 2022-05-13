@@ -10,7 +10,7 @@
 
 ![IMG_2033](https://user-images.githubusercontent.com/17962241/168257628-a994a2a2-ac3a-4992-8603-c5b0205f6a21.JPG)
 
-# Schemat układu
+# Opis budowy układu
 
 Multimetr Metex M-3860D wyposażony został w interface szeregowy RS232 pracujący w standardzie boud 1200-7-2.Niestety do podłączenia konieczny jest kabel szeregowy zakończony specjalnym , bardzo nie standardowym konektorem, który nie jest dostępny na rynku. Na szczęście stworzenie własnego zamiennika nie stanowi wielkiego wyzwania.
 ![IMG_2042](https://user-images.githubusercontent.com/17962241/168260033-3eba8f12-91ee-40e9-adc7-9c5a3384f749.JPG)
@@ -21,6 +21,8 @@ Połączenie pomiędzy multimetrem Metex a ESP32 zrealizowane jest za pomocą ko
 ![konwerter-rs232-uart-ze-zlaczem-db9-sp3232-33v5v-waveshare-3965](https://user-images.githubusercontent.com/17962241/168258839-9e9a6178-3391-491b-900b-57894c61c10e.jpg)
   
 Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D można znaleźć https://www.sbprojects.net/projects/m3850/index.php
+
+Odebrana ramka pomiarowa z miernika zostaje przetworzona i wysłania do serwisu Google Translate Text-to-Speech, który przetwarza tekst na plik clip MP3 wg zadanych parametrów tj. lektor, język, prędkość wymowy, itd. Odebrany plik MP3 zostaje następnie zdekodowany w ESP32 i wysłany interfacem I2S do dekodera audio MAX98357A. Dekoder na wyjścu audio ma podłączony bezpośrednio głośnik 3W 4ohm. Schemat podłączenia ESP32 z dekoderem widoczny jest poniżej:
 
 ![I2S-ESP32-Play-from-Memory_Steckplatine](https://user-images.githubusercontent.com/17962241/168258586-f9c6710a-1b62-4a56-9ea9-05c532f4cdcd.png)
 
