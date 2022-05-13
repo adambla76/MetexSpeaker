@@ -9,3 +9,5 @@
 ![IMG_2047](https://user-images.githubusercontent.com/17962241/168257552-69bd96af-bcce-4055-86a7-1970930b09b5.JPG)
 
 ![IMG_2033](https://user-images.githubusercontent.com/17962241/168257628-a994a2a2-ac3a-4992-8603-c5b0205f6a21.JPG)
+
+<b>Schemat układu</b>
