@@ -6,6 +6,13 @@
      
        wersja ESP32 dla METEX M-3860D
 
+
+       biblioteki potrzebne do kompilacji kodu: 
+
+          https://github.com/schreibfaul1/ESP32-audioI2S
+          https://github.com/tzapu/WiFiManager
+
+
 */
 
 #include "Arduino.h"
@@ -15,8 +22,8 @@
 #define I2S_DOUT      25
 #define I2S_BCLK      27
 #define I2S_LRC       26
-#define RXD2 16      //16
-#define TXD2 17      //17
+#define RXD2          16      
+#define TXD2          17      
 
 Audio audio;
 
@@ -33,7 +40,7 @@ void setup() {
     Serial.begin(115200);
     Serial2.begin(1200, SERIAL_7N2, RXD2, TXD2);
     Serial.println();
-    Serial.println("MetexESP Speaker");
+    Serial.println("Metex Speaker");
     Serial.println();
    
     WiFi.mode(WIFI_STA);
