@@ -33,4 +33,4 @@ Szczegóły protokołu komunikacyjnego użytego w Metex M-3860D oraz pinout kone
 * [komunikat powitalny     ](https://youtu.be/Lm9R9BroX0s)
 
 # Podsumowanie
-  Projekt powyższego układu działa nadzwyczaj stabilnie. Odczyt głosowy pozwala osobie słabowidzącej korzystać w pełni z multimetru, którego wyświetlacz zwykle nie jest zbyt kontrastowy co uniemożliwia jego wygodny udczyt. Odczyt odbywa się automatycznie co kilka sekund. Dostępna jest możliwość regulacji głośności niestety tylko z poziomu kodu. 
+  Projekt powyższego układu działa nadzwyczaj stabilnie. Odczyt głosowy pozwala osobie słabowidzącej korzystać w pełni z multimetru, którego wyświetlacz zwykle nie jest zbyt kontrastowy co uniemożliwia jego wygodny udczyt. Odczyt odbywa się automatycznie co kilka sekund. Dostępna jest możliwość regulacji głośności niestety tylko z poziomu kodu programu . Możnaby to oczywiście łatwo rozbudować dodając potencjometr, ale ze względu małą ilość miejsca w obudowie zrezygnowano z tego pomysłu.
